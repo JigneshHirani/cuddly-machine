@@ -6,4 +6,4 @@ mountpoints:
 folders:
   /products/: /products/default
   /category/: /category/default
-  /categories/: /categories/default-category
+  /categories/: /categories/default
